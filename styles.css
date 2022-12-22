@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #efe9e3;
+    color: #645f5a;
+}
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #514c49;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.5em;
+}
+img {
+    width: auto;
+    height: 200px;
+}
